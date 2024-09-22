@@ -3,6 +3,8 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=selarmld&show_icons=true&locale=en&theme=react&layout=compact" alt="selarmld" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=selarmld&show_icons=true&theme=react&rank_icon=github&locale=en" alt="selarmld" /></p>
+# Section 1
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=selarmld&show_icons=true)](https://github.com/selarmld)
+# Section 2
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selarmld&layout=compact)](https://github.com/selarmld)
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=selarmld&theme=react" alt="selarmld" /></p>
