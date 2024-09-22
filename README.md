@@ -5,5 +5,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=selarmld&show_icons=true&rank_icon=github&locale=en&theme=react&" alt="selarmld" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=selarmld&theme=react" alt="selarmld" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=selarmld&theme=react" alt="selarmld" /></p>
 
