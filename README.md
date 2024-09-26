@@ -1,5 +1,5 @@
 <h1 align="left">About Sela</h1>
-<h3 align="left">Hello👋🏻 I am student from mulawarman university informatics major</h3>
+<p align="left">Hello👋🏻 I am student from mulawarman university informatics major</p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=selarmld&show_icons=true&rank_icon=github&locale=en&theme=react&" alt="selarmld" /></p>
 
